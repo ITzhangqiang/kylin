@@ -105,7 +105,7 @@
     <!-- kylin use shaded-guava, this version for unify guava version of other dependencies -->
     <guava.version>14.0</guava.version>
     <jsch.version>0.1.54</jsch.version>
-    <commons-cli.version>1.2</commons-cli.version>
+    <commons-cli.version>1.4</commons-cli.version>
     <commons-lang.version>2.6</commons-lang.version>
     <commons-httpclient.version>3.1</commons-httpclient.version>
     <commons-io.version>2.4</commons-io.version>
