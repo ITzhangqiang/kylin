@@ -124,7 +124,7 @@
     <dbunit.version>2.5.4</dbunit.version>
     <h2.version>1.4.196</h2.version>
     <jetty.version>9.4.26.v20200117</jetty.version>
-    <jamm.version>0.3.1</jamm.version>
+    <jamm.version>0.3.3</jamm.version>
     <mockito.version>2.7.14</mockito.version>
     <mockito-all.version>1.9.5</mockito-all.version>
     <powermock.version>1.7.0</powermock.version>
