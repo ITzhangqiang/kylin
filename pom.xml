@@ -119,7 +119,7 @@
 
     <!-- Test Dependency versions -->
     <antlr.version>3.4</antlr.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <mrunit.version>1.1.0</mrunit.version>
     <dbunit.version>2.5.4</dbunit.version>
     <h2.version>1.4.196</h2.version>
