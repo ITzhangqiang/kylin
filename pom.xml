@@ -70,7 +70,7 @@
     <yarn.version>2.7.1</yarn.version>
 
     <!-- Hive versions -->
-    <hive.version>1.2.2</hive.version>
+    <hive.version>2.3.4</hive.version>
     <hive-hcatalog.version>1.2.2</hive-hcatalog.version>
 
     <!-- HBase versions -->
