@@ -144,7 +144,7 @@
     <xalan.version>2.7.2</xalan.version>
     <ehcache.version>2.10.2.2.21</ehcache.version>
     <memcached.verion>2.12.3</memcached.verion>
-    <apache-httpclient.version>4.3.6</apache-httpclient.version>
+    <apache-httpclient.version>4.5.13</apache-httpclient.version>
     <roaring.version>0.6.18</roaring.version>
     <cglib.version>3.2.4</cglib.version>
     <supercsv.version>2.4.0</supercsv.version>
